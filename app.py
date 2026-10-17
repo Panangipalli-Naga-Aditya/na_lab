@@ -22,4 +22,3 @@ ax.set_xlabel("Distance L")
 ax.set_ylabel("Radius r")
 ax.legend()
 st.pyplot(fig)
-"@
